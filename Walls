@@ -1,15 +1,57 @@
 {
   "wallpapers": [
     {
-      "author": "Kaique Rocha",
-      "category": "Minimal",
-      "url": "https://static.pexels.com/photos/53756/pexels-photo-53756.jpeg",
-      "name": "Night City Street",
-      "thumbnail": "https://images.pexels.com/photos/53756/pexels-photo-53756.jpeg?h=350&auto=compress&cs=tinysrgb"
+      "author": "Jahnavi Gandhi",
+      "category": "3D",
+      "url": "https://i.ibb.co/x2HQy2M/5.png",
+      "name": "Balls",
+      "thumbnail": "https://i.ibb.co/1XjMhsV/5-compressed.jpg"
     },
     {
-      "author": "No One",
-      "category": "Minimal",
+      "author": "Jahnavi Gandhi",
+      "category": "3D",
+      "url": "https://i.ibb.co/rsBbNTx/8-01.jpg",
+      "name": "Tunnel",
+      "thumbnail": "https://i.ibb.co/9NzKXGk/8-01-compressed.jpg"
+    },
+    {
+      "author": "Jahnavi Gandhi",
+      "category": "3D",
+      "url": "https://static.pexels.com/photos/268832/pexels-photo-268832.jpeg",
+      "name": "Drops",
+      "thumbnail": "https://images.pexels.com/photos/268832/pexels-photo-268832.jpeg?h=350&auto=compress&cs=tinysrgb"
+    },
+    {
+      "author": "Jahnavi Gandhi",
+      "category": "3D",
+      "url": "https://static.pexels.com/photos/268832/pexels-photo-268832.jpeg",
+      "name": "Drops",
+      "thumbnail": "https://images.pexels.com/photos/268832/pexels-photo-268832.jpeg?h=350&auto=compress&cs=tinysrgb"
+    },
+    {
+      "author": "Jahnavi Gandhi",
+      "category": "3D",
+      "url": "https://static.pexels.com/photos/268832/pexels-photo-268832.jpeg",
+      "name": "Drops",
+      "thumbnail": "https://images.pexels.com/photos/268832/pexels-photo-268832.jpeg?h=350&auto=compress&cs=tinysrgb"
+    },
+    {
+      "author": "Jahnavi Gandhi",
+      "category": "3D",
+      "url": "https://static.pexels.com/photos/268832/pexels-photo-268832.jpeg",
+      "name": "Drops",
+      "thumbnail": "https://images.pexels.com/photos/268832/pexels-photo-268832.jpeg?h=350&auto=compress&cs=tinysrgb"
+    },
+    {
+      "author": "Jahnavi Gandhi",
+      "category": "3D",
+      "url": "https://static.pexels.com/photos/268832/pexels-photo-268832.jpeg",
+      "name": "Drops",
+      "thumbnail": "https://images.pexels.com/photos/268832/pexels-photo-268832.jpeg?h=350&auto=compress&cs=tinysrgb"
+    },
+    {
+      "author": "Jahnavi Gandhi",
+      "category": "3D",
       "url": "https://static.pexels.com/photos/268832/pexels-photo-268832.jpeg",
       "name": "Drops",
       "thumbnail": "https://images.pexels.com/photos/268832/pexels-photo-268832.jpeg?h=350&auto=compress&cs=tinysrgb"
